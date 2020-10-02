@@ -1,21 +1,19 @@
 # makeup
-
-
-<htlm>
+<html>
 
 <head>
-<title> Descripcion del Maquillaje
-</title>
+
 </head>
 
 
-<body>
-<H1> Descripcion del Maquillaje </H1>
+<frameset cols="120,*"> <frame name="left"src="codmenu.html">
+<frameset rows="100,*"> 
 
-</body>
+<frame name="arriba"src="trululu.html">
+<frame name="center"src="suerito.html">
 
+</frameset>
 </html>
-
 
 
 
